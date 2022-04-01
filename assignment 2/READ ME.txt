@@ -1,0 +1,12 @@
+READ ME
+Conncet Server and Client
+Here we use hostName = localhost; hostNumber = 1234;
+
+Follow the instructions on the IU interface
+1. input a sequence of numbers (diveded by space) (!!!!!DO NOT input 0 please)
+2. input the operation way (1 - 2^x; 2 - x^2; 3 - sqrt(x); 4 - logx)
+3. input the mode (1 - assign uniformly; 2 - 1 number per thread and the rest of the numbers for the last thread)
+
+Result:
+In client, you will receive the operated sequence and execution time.
+In Server, you will see each step clearly. 
